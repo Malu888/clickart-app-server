@@ -1,0 +1,55 @@
+{
+  "imagenes": [
+    {
+      "imagenid": "1",
+      "categoria": "ciudades",
+      "location": "Londres",
+      "img": "https://images.unsplash.com/5/unsplash-kitsune-4.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9&s=fb86e2e09fceac9b363af536b93a1275"
+    },
+    {
+      "imagenid": "2",
+      "categoria": "musica",
+      "location": "Japan",
+      "img": "https://images.pexels.com/photos/28287998/pexels-photo-28287998/free-photo-of-madera-amor-arte-musica.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "imagenid": "3",
+      "categoria": "animales",
+      "location": "Roma",
+      "img": "https://images.pexels.com/photos/28075371/pexels-photo-28075371/free-photo-of-blanco-y-negro-coches-mujer-calle.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "imagenid": "4",
+      "categoria": "blancoynegro",
+      "location": "Francia",
+      "img": "https://images.pexels.com/photos/28522265/pexels-photo-28522265/free-photo-of-captura-en-blanco-y-negro-del-templo-de-apolo-naxos.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+
+  ],
+  "comentarios": [
+    {
+      "contenido": "esta imagen me gusto porque",
+      "autor": "Malu",
+      "rating": 10,
+      "imagenid": "1"
+    },
+    {
+      "contenido": "esta imagen me gusto porque",
+      "autor": "Malu",
+      "rating": 8,
+      "imagenid": "2"
+    },
+    {
+     "contenido": "esta imagen me gusto porque",
+      "autor": "Malu",
+      "rating": 7,
+      "imagenid": "3"
+    },
+    {
+      "contenido": "esta imagen me gusto porque",
+       "autor": "Malu",
+       "rating": 7,
+       "imagenid": "4"
+     }
+  ]
+}
