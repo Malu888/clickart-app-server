@@ -19,7 +19,7 @@
       "descargas": 0,
       "categoria": "Black and White",
       "location": "Sagrada Familia, Barcelona",
-      "img": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/black-la-sagrada-familia-catholic-church-barcelona-spain-chuck-kuhn.jpg"
+      "img": "https://images.pexels.com/photos/22896467/pexels-photo-22896467/free-photo-of-blanco-y-negro-ver-vistas-torre.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
       "id": "d6a4e1c3b5f9",
@@ -28,33 +28,20 @@
       "location": "Roma, Coliseo",
       "img": "https://img.fotocommunity.com/coliseo-de-roma-458d2f81-b847-448d-8d14-5736b6354fee.jpg?height=1080"
     },
-    {
-      "id": "e9b7a5d3c4f1",
-      "descargas": 0,
-      "categoria": "Black and White",
-      "location": "Maldivas",
-      "img": "https://st2.depositphotos.com/10440072/43876/i/950/depositphotos_438767170-stock-photo-black-white-amazing-panorama-beach.jpg"
-    },
-    {
-      "id": "f1c3b5a4e7d9",
-      "descargas": 0,
-      "categoria": "Black and White",
-      "location": "Nueva York",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHzI1lkA95GLAHBXPIcyQ5JEoHM0i03SShWA&s"
-    },
+   
     {
       "id": "g4e2d7b9f5a1",
       "descargas": 0,
       "categoria": "Black and White",
       "location": "Selva Amazónica",
-      "img": "https://independent-photo.com/wp-content/uploads/2022/01/xl_salgado_amazonia_p039.jpg"
+      "img": "https://images.pexels.com/photos/22940331/pexels-photo-22940331/free-photo-of-blanco-y-negro-nublado-barca-superficie.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
       "id": "h9a5c3d2e1f7",
       "descargas": 0,
       "categoria": "Black and White",
       "location": "Taj Mahal, India",
-      "img": "https://images.unsplash.com/photo-1678304600824-3cd6f128f9eb?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "img": "https://images.pexels.com/photos/13043700/pexels-photo-13043700.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
       "id": "i2d7e1a9c4b5",
@@ -119,13 +106,7 @@
       "location": "Cataratas del Niágara",
       "img": "https://i.etsystatic.com/9299240/r/il/1cfa67/904321058/il_fullxfull.904321058_fq82.jpg"
     },
-    {
-      "id": "r3a9b5e7d1f2",
-      "descargas": 0,
-      "categoria": "Architecture",
-      "location": "Puente Golden Gate, San Francisco",
-      "img": "https://www.molaviajar.com/wp-content/uploads/2016/06/golden-gate-por-la-noche-foto.jpg"
-    },
+    
     {
       "id": "s7d1e9a5b3f4",
       "descargas": 0,
@@ -141,6 +122,13 @@
       "img": "https://cache.marriott.com/content/dam/marriott-renditions/BOBXR/bobxr-exterior-aerialview-1580-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=2880px:*"
     },
     {
+      "id": "e9b7a5d3c4f1",
+      "descargas": 0,
+      "categoria": "Beaches",
+      "location": "Maldivas",
+      "img": "https://images.pexels.com/photos/7832614/pexels-photo-7832614.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
       "id": "u1d7a5b9f3e2",
       "descargas": 0,
       "categoria": "Cities",
@@ -153,6 +141,13 @@
       "categoria": "Nature",
       "location": "Monte Everest",
       "img": "https://cdn0.geoenciclopedia.com/es/posts/0/6/1/monte_everest_160_orig.jpg"
+    },
+    {
+      "id": "r3a9b5e7d1f2",
+      "descargas": 0,
+      "categoria": "Architecture",
+      "location": "Puente Golden Gate, San Francisco",
+      "img": "https://www.molaviajar.com/wp-content/uploads/2016/06/golden-gate-por-la-noche-foto.jpg"
     },
     {
       "id": "w7d9f1b5a3e2",
@@ -180,14 +175,14 @@
       "descargas": 0,
       "categoria": "Cities",
       "location": "Berlín",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnG0Hdb1se6GJrvOnQwVoLGcxMMGvGHi4I1w&usqp=CAU"
+      "img": "https://images.pexels.com/photos/275202/pexels-photo-275202.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
       "id": "a7d3b5e1f9a4",
       "descargas": 0,
       "categoria": "Nature",
       "location": "Monte Fuji, Japón",
-      "img": "https://www.nippon.com/es/ncommon/contents/features/108158/108158.jpg"
+      "img": "https://www.mallorcadiario.com/fotos/1/420262_monte-fuji.jpg"
     },
     {
       "id": "b9f1e5b7a3d2",
@@ -257,14 +252,14 @@
       "descargas": 0,
       "categoria": "Nature",
       "location": "Desierto del Sahara",
-      "img": "https://eacnur.org/sites/default/files/styles/hero/public/desierto-del-sahara-dunas.jpg?h=21c78acf&itok=W59ttRaK"
+      "img": "https://img.rtve.es/imagenes/ser-humano-papel-desertificacion-desierto-sahara/1624375615201.jpg"
     },
     {
       "id": "l9e3b1f5d7a2",
       "descargas": 0,
       "categoria": "Architecture",
       "location": "Catedral de San Basilio, Rusia",
-      "img": "https://st4.depositphotos.com/1871501/39143/i/950/depositphotos_391434384-stock-photo-moscow-russia-2020-interior-saint.jpg"
+      "img": "https://www.tumoscu.com/images/Catedral%20de%20San%20Basilio/catedral-san-basilio-basilica-moscu-rusia-de-noche-iluminada-en-invierno.jpg"
     },
     {
       "id": "m1a9f5d3b7e2",
@@ -631,20 +626,8 @@
       "rating": 4.9,
       "contenido": "Zanzibar is a tropical paradise. Its white sandy beaches and turquoise waters are dreamy.",
       "id": "m1e5d3b7f9a2"
-    },
-    {
-      "imagenId": "t1e5a7b9f3d2",
-      "autor": "cityadventurer34",
-      "rating": 4.6,
-      "contenido": "Bangkok is a city full of life and contrasts. The temples, street food, and markets make every day an adventure.",
-      "id": "n9d5c3b7f1e2"
-    },
-    {
-      "autor": "Malú",
-      "contenido": "kbnkjb",
-      "rating": "3",
-      "imagenId": "a8c4d5f9e7b1",
-      "id": "7ONE-lr"
     }
+
+    
   ]
 }
